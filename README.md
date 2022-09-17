@@ -22,3 +22,5 @@
 <li><img src="https://cdn-icons-png.flaticon.com/512/6737/6737832.png"width="20px"/> The payload must contain the shellcode to be executed.</li>
 </ul>
 </p>
+
+Para la realización de este proyecto me ayudó <a href=https://github.com/ASR26>ASR26</a> y la guía que tiene en su repositorio <a href=https://github.com/ASR26/Tsunami> TSUNAMI</a>
